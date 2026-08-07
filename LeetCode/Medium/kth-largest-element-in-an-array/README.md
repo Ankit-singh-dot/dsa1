@@ -8,13 +8,12 @@
 | **Solved On** | August 7, 2026 |
 | **Tags** | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect |
 | **Link** | [View Problem](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
-| **Runtime** | 32 ms |
-| **Memory** | 69 MB |
+| **Runtime** | 31 ms |
+| **Memory** | 69.2 MB |
 
 ## Approach
 
-gnenrgregwse
-ghwtg
+steiver ki videodek
 
 ## Problem Description
 
