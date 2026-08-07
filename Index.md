@@ -16,3 +16,6 @@ All solved problems organized by pattern/category.
 
 ## Backtracking
 - [3Sum](./LeetCode/Medium/3Sum) - *Medium*
+
+## Two Pointers
+- [3Sum](./LeetCode/Medium/3Sum) - *Medium*
