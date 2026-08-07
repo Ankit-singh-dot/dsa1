@@ -13,3 +13,6 @@ All solved problems organized by pattern/category.
 
 ## nothing
 - [3Sum](./LeetCode/Medium/3Sum) - *Medium*
+
+## Backtracking
+- [3Sum](./LeetCode/Medium/3Sum) - *Medium*
