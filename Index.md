@@ -10,3 +10,6 @@ All solved problems organized by pattern/category.
 
 ## Trees
 - [Rotate Array by One](./GeeksForGeeks/Unknown/Rotate%20Array%20by%20One) - *Unknown*
+
+## nothing
+- [3Sum](./LeetCode/Medium/3Sum) - *Medium*
