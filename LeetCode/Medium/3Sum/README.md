@@ -8,15 +8,12 @@
 | **Solved On** | August 8, 2026 |
 | **Tags** | Array, Two Pointers, Sorting |
 | **Link** | [View Problem](https://leetcode.com/problems/3sum/) |
-| **Runtime** | 57 ms |
-| **Memory** | 31 MB |
+| **Runtime** | 59 ms |
+| **Memory** | 31.2 MB |
 
 ## Approach
 
-lnegfwgf 
-qwebgjbrwg
-qwpgnionwrekg
-fojrbgjnerg
+npwjgqwnrgreg 
 
 ## Problem Description
 
