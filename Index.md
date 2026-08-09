@@ -29,3 +29,6 @@ All solved problems organized by pattern/category.
 
 ## Stack
 - [Majority Element](./LeetCode/Easy/Majority%20Element) - *Easy*
+
+## Bit Manipulation
+- [Majority Element](./LeetCode/Easy/Majority%20Element) - *Easy*
