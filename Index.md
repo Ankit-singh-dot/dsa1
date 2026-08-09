@@ -26,3 +26,6 @@ All solved problems organized by pattern/category.
 
 ## Math & Geometry
 - [Rearrange Array Elements by Sign](./LeetCode/Medium/Rearrange%20Array%20Elements%20by%20Sign) - *Medium*
+
+## Stack
+- [Majority Element](./LeetCode/Easy/Majority%20Element) - *Easy*
