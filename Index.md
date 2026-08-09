@@ -32,3 +32,6 @@ All solved problems organized by pattern/category.
 
 ## Bit Manipulation
 - [Majority Element](./LeetCode/Easy/Majority%20Element) - *Easy*
+
+## Heap / Priority Queue
+- [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) - *Medium*
