@@ -9,11 +9,11 @@
 | **Tags** | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | **Link** | [View Problem](https://leetcode.com/problems/majority-element/) |
 | **Runtime** | 0 ms |
-| **Memory** | 28.1 MB |
+| **Memory** | 28.2 MB |
 
 ## Approach
 
-dkjfjowenfjkwef
+kjnjkj onhoin 
 
 ## Problem Description
 
