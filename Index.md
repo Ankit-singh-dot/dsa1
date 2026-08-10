@@ -31,6 +31,7 @@ All solved problems organized by pattern/category.
 - [Majority Element](./LeetCode/Easy/Majority%20Element) - *Easy*
 
 ## Bit Manipulation
+- [4sum](./LeetCode/Unknown/4sum) - *Unknown*
 - [Majority Element](./LeetCode/Easy/Majority%20Element) - *Easy*
 
 ## Heap / Priority Queue
