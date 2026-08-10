@@ -9,3 +9,4 @@ Check these off as you review them!
 - [ ] **Rearrange Array Elements by Sign** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Rearrange%20Array%20Elements%20by%20Sign)
 - [ ] **Majority Element** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Majority%20Element)
 - [ ] **Count Subarrays with given XOR** (GeeksForGeeks - Unknown) | [View Solution](./GeeksForGeeks/Unknown/Count%20Subarrays%20with%20given%20XOR)
+- [ ] **4sum** (LeetCode - Unknown) | [View Solution](./LeetCode/Unknown/4sum)
