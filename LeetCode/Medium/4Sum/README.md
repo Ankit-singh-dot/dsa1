@@ -9,11 +9,11 @@
 | **Tags** | Array, Two Pointers, Sorting |
 | **Link** | [View Problem](https://leetcode.com/problems/4sum/) |
 | **Runtime** | 0 ms |
-| **Memory** | 8.6 MB |
+| **Memory** | 8.4 MB |
 
 ## Approach
 
-on3 approcah second best not optimal i guess 
+4 sum solved , dhayan rakhan target ispe aur 3 sum se thoda different hai loop ke mamle me aur target me bhi
 
 ## Problem Description
 
