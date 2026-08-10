@@ -35,3 +35,6 @@ All solved problems organized by pattern/category.
 
 ## Heap / Priority Queue
 - [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) - *Medium*
+
+## Uncategorized
+- [3Sum](./LeetCode/Medium/3Sum) - *Medium*
