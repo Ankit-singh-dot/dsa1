@@ -37,4 +37,5 @@ All solved problems organized by pattern/category.
 - [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) - *Medium*
 
 ## Uncategorized
+- [4Sum](./LeetCode/Medium/4Sum) - *Medium*
 - [3Sum](./LeetCode/Medium/3Sum) - *Medium*
