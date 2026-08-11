@@ -42,3 +42,6 @@ All solved problems organized by pattern/category.
 - [Largest subarray with 0 sum](./GeeksForGeeks/Unknown/Largest%20subarray%20with%200%20sum) - *Unknown*
 - [4Sum](./LeetCode/Medium/4Sum) - *Medium*
 - [3Sum](./LeetCode/Medium/3Sum) - *Medium*
+
+## Dynamic Programming
+- [4Sum](./LeetCode/Medium/4Sum) - *Medium*
