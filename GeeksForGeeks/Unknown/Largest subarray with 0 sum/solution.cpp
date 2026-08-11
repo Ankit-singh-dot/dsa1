@@ -1,21 +1,25 @@
 class Solution {
-  public:
-    int maxLength(vector<int>& arr) {
-        int n = arr.size();
-        unordered_map<long long ,int > mp ;
-        long long sum = 0;
+    public int maxLength(int[] arr) {
+        int n = arr.length;
+
+        HashMap<Long, Integer> mp = new HashMap<>();
+
+        long sum = 0;
         int maxi = 0;
-        mp[0] = - 1 ;
-        for(int i = 0 ; i<n ; i++){
+
+        mp.put(0L, -1);
+
+        for (int i = 0; i < n; i++) {
             sum += arr[i];
-            if(mp.find(sum) != mp.end()){
-                int length = i - mp[sum];
-                maxi = max(maxi, length);
-            }
-            else {
-                mp[sum] = i;
+
+            if (mp.containsKey(sum)) {
+                int length = i - mp.get(sum);
+                maxi = Math.max(maxi, length);
+            } else {
+                mp.put(sum, i);
             }
         }
-        return maxi ; 
+
+        return maxi;
     }
-};
+}
