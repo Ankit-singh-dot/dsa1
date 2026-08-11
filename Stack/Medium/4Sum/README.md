@@ -4,12 +4,16 @@
 |-------|-------|
 | **Platform** | LeetCode |
 | **Difficulty** | Medium |
-| **Language** | cpp |
+| **Language** | java |
 | **Solved On** | August 11, 2026 |
 | **Tags** | Array, Two Pointers, Sorting |
 | **Link** | [View Problem](https://leetcode.com/problems/4sum/) |
-| **Runtime** | 27 ms |
-| **Memory** | 17.5 MB |
+| **Runtime** | 18 ms |
+| **Memory** | 45.7 MB |
+
+## Approach
+
+efnlwefnblkewnfqwefq[weefnlwefnblkewnfqwefq[weefnlwefnblkewnfqwefq[weefnlwefnblkewnfqwefq[weefnlwefnblkewnfqwefq[weefnlwefnblkewnfqwefq[we
 
 ## Problem Description
 
