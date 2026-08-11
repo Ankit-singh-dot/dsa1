@@ -8,15 +8,14 @@
 | **Solved On** | August 11, 2026 |
 | **Tags** | Array, Two Pointers, Sorting |
 | **Link** | [View Problem](https://leetcode.com/problems/4sum/) |
-| **Runtime** | 20 ms |
+| **Runtime** | 17 ms |
 | **Memory** | 17.6 MB |
 
 ## Approach
 
-wekfjwebf 
-wejfbjabg
-aojbgjbgklnserg
-ajgoreng
+iqwbf ef wf
+awejfbijnqefkgla
+afwenfoawef
 
 ## Problem Description
 
