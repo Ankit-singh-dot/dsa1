@@ -8,12 +8,12 @@
 | **Solved On** | August 12, 2026 |
 | **Tags** | String, Dynamic Programming, Stack, Bracket Sequences |
 | **Link** | [View Problem](https://leetcode.com/problems/longest-valid-parentheses/) |
-| **Runtime** | 0 ms |
+| **Runtime** | 4 ms |
 | **Memory** | 11.8 MB |
 
 ## Problem Description
 
-<p>Given a string containing just the characters <code>'('</code> and <code>')'</code>, return <em>the length of the longest valid (well-formed) parentheses </em><span data-keyword="substring-nonempty" class=" cursor-pointer relative text-dark-blue-s text-sm"><button type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-_r_s_" data-state="closed" class=""><em>substring</em></button></span>.</p>
+<p>Given a string containing just the characters <code>'('</code> and <code>')'</code>, return <em>the length of the longest valid (well-formed) parentheses </em><span data-keyword="substring-nonempty" class=" cursor-pointer relative text-dark-blue-s text-sm"><button type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-_r_r_" data-state="closed" class=""><em>substring</em></button></span>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
