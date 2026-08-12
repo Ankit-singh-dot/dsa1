@@ -25,6 +25,7 @@ All solved problems organized by pattern/category.
 - [Rearrange Array Elements by Sign](./LeetCode/Medium/Rearrange%20Array%20Elements%20by%20Sign) - *Medium*
 
 ## Math & Geometry
+- [Longest Valid Parentheses](./LeetCode/Hard/Longest%20Valid%20Parentheses) - *Hard*
 - [Longest Valid Parentheses](./LeetCode/Unknown/Longest%20Valid%20Parentheses) - *Unknown*
 - [Count the Coprimes](./GeeksForGeeks/Hard/Count%20the%20Coprimes) - *Hard*
 - [Rearrange Array Elements by Sign](./LeetCode/Medium/Rearrange%20Array%20Elements%20by%20Sign) - *Medium*
