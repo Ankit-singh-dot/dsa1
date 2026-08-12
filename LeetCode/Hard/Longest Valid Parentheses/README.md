@@ -8,12 +8,12 @@
 | **Solved On** | August 12, 2026 |
 | **Tags** | String, Dynamic Programming, Stack, Bracket Sequences |
 | **Link** | [View Problem](https://leetcode.com/problems/longest-valid-parentheses/) |
-| **Runtime** | 0 ms |
-| **Memory** | 11.8 MB |
+| **Runtime** | 4 ms |
+| **Memory** | 11.9 MB |
 
 ## Approach
 
-whevfhjvehjfv2whevfhjvehjfv2whevfhjvehjfv2whevfhjvehjfv2whevfhjvehjfv2whevfhjvehjfv2whevfhjvehjfv2whevfhjvehjfv2
+lkjaefj asekjt aket
 
 ## Problem Description
 
