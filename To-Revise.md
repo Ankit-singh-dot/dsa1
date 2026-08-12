@@ -11,3 +11,4 @@ Check these off as you review them!
 - [ ] **Count Subarrays with given XOR** (GeeksForGeeks - Unknown) | [View Solution](./GeeksForGeeks/Unknown/Count%20Subarrays%20with%20given%20XOR)
 - [ ] **4sum** (LeetCode - Unknown) | [View Solution](./LeetCode/Unknown/4sum)
 - [ ] **4Sum** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/4Sum)
+- [ ] **Longest Valid Parentheses** (LeetCode - Unknown) | [View Solution](./LeetCode/Unknown/Longest%20Valid%20Parentheses)
