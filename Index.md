@@ -41,6 +41,7 @@ All solved problems organized by pattern/category.
 - [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) - *Medium*
 
 ## Uncategorized
+- [Welcome to the CodeChef AI Tutor](./CodeChef/Unknown/Welcome%20to%20the%20CodeChef%20AI%20Tutor) - *Unknown*
 - [Count Subarrays with given XOR](./GeeksForGeeks/Unknown/Count%20Subarrays%20with%20given%20XOR) - *Unknown*
 - [Largest subarray with 0 sum](./GeeksForGeeks/Unknown/Largest%20subarray%20with%200%20sum) - *Unknown*
 - [4Sum](./LeetCode/Medium/4Sum) - *Medium*
