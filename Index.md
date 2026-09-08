@@ -38,6 +38,7 @@ All solved problems organized by pattern/category.
 - [Majority Element](./LeetCode/Easy/Majority%20Element) - *Easy*
 
 ## Heap / Priority Queue
+- [Binary Tree Zigzag Level Order Traversal](./LeetCode/Medium/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal) - *Medium*
 - [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) - *Medium*
 
 ## Uncategorized
