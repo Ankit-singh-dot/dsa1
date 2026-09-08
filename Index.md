@@ -16,6 +16,7 @@ All solved problems organized by pattern/category.
 - [3Sum](./LeetCode/Medium/3Sum) - *Medium*
 
 ## Backtracking
+- [Sudoku Solver](./LeetCode/Hard/Sudoku%20Solver) - *Hard*
 - [3Sum](./LeetCode/Medium/3Sum) - *Medium*
 
 ## Two Pointers
