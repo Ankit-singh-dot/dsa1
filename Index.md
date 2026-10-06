@@ -44,6 +44,7 @@ All solved problems organized by pattern/category.
 - [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) - *Medium*
 
 ## Uncategorized
+- [Detect Capital](./LeetCode/Easy/Detect%20Capital) - *Easy*
 - [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) - *Easy*
 - [Isomorphic Strings](./LeetCode/Easy/Isomorphic%20Strings) - *Easy*
 - [Find the Index of the First Occurrence in a String](./LeetCode/Easy/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String) - *Easy*
