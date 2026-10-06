@@ -8,12 +8,20 @@
 | **Solved On** | October 6, 2026 |
 | **Tags** | Hash Table, String, Sorting |
 | **Link** | [View Problem](https://leetcode.com/problems/valid-anagram/) |
-| **Runtime** | 3 ms |
+| **Runtime** | 0 ms |
 | **Memory** | 9.7 MB |
 
 ## Approach
 
-code dekh le simple ahi 
+ for(int i=0; i<s.length();i++){
+            freq[s[i]-'a']++;
+            freq[t[i]-'a']--;
+        }
+
+        for(int i=0;i<26;i++){
+            if(freq[i]!=0){
+                return false;
+            }
 
 ## Problem Description
 
