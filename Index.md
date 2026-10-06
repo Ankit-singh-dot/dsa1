@@ -20,6 +20,7 @@ All solved problems organized by pattern/category.
 - [3Sum](./LeetCode/Medium/3Sum) - *Medium*
 
 ## Two Pointers
+- [Valid Palindrome](./LeetCode/Easy/Valid%20Palindrome) - *Easy*
 - [3Sum](./LeetCode/Medium/3Sum) - *Medium*
 
 ## Greedy
