@@ -44,6 +44,7 @@ All solved problems organized by pattern/category.
 - [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) - *Medium*
 
 ## Uncategorized
+- [Toeplitz Matrix](./LeetCode/Easy/Toeplitz%20Matrix) - *Easy*
 - [Detect Capital](./LeetCode/Easy/Detect%20Capital) - *Easy*
 - [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) - *Easy*
 - [Isomorphic Strings](./LeetCode/Easy/Isomorphic%20Strings) - *Easy*
