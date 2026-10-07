@@ -8,8 +8,8 @@
 | **Solved On** | October 7, 2026 |
 | **Tags** | Array, Matrix, Simulation |
 | **Link** | [View Problem](https://leetcode.com/problems/shift-2d-grid/) |
-| **Runtime** | 4 ms |
-| **Memory** | 19.4 MB |
+| **Runtime** | 0 ms |
+| **Memory** | 18.1 MB |
 
 ## Problem Description
 
